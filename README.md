@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning WPF.
 - 💞️ I’m looking to collaborate on WPF or Java.
 - 📫 How to reach me @andreibolba on instagram.
-- 💻 Currently workinh on a school management system in Java.
+- 💻 Currently working on a school management system in Java and on a hotel management system in WPF.
 
 <!---
 andreibolba/andreibolba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
