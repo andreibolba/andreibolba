@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on WPF or Java.
 - 📫 How to reach me @andreibolba on instagram.
 - 💻 Currently working on a school management system in Java and on a hotel management system in WPF with ADO.NET.
-- 💻 Working at TeamNet Bucharest. 
+- 💻 Working at TeamNet in Bucharest. 
 <!---
 andreibolba/andreibolba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
