@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreibolba.
+- 👋 Hello, I’m @andreibolba.
 - 👀 I’m interested in C#,Java,C++,HTML/CSS/JavaScript.
 - 🌱 I’m currently learning WPF.
 - 💞️ I’m looking to collaborate on WPF or Java.
