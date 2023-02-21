@@ -1,9 +1,9 @@
 - 👋 Hello, I’m @andreibolba.
-- 👀 I’m interested in C#,Java,C++,HTML/CSS/JavaScript.
-- 🌱 I’m currently learning WPF.
-- 💞️ I’m looking to collaborate on WPF or Java.
+- 👀 I’m interested in C# & Angular.
+- 🌱 I’m currently learning Full Stack.
+- 💞️ I’m looking to collaborate on a Full Stack Application.
 - 📫 How to reach me @andreibolba on Instagram.
-- 💻 Currently working on a school management system in Java and on a hotel management system in WPF with ADO.NET.
+- 💻 Currently working on a internships management app with C# REST API and Angular.
 - 💻 Working at TeamNet in Bucharest from 1st July 2022. 
 <!---
 andreibolba/andreibolba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
